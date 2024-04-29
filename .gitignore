@@ -1,0 +1,7 @@
+*/checkpoints
+*/image_log
+*/Results
+*/lightning_logs
+*.pth
+*.ckpt
+__pycache__
